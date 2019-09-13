@@ -18,7 +18,7 @@ public class DuplicateArray {
 		
 	// Note is added
 		//Note 4 master 
-		
+		//jhdsfhghdgf
 		String reverse="Amazon";
 		
 		for (int i = reverse.length()-1; i >=0; i--) {
