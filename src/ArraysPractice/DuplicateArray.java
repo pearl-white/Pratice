@@ -16,7 +16,7 @@ public class DuplicateArray {
 //			}
 //		}
 		
-	
+	// Note is added
 		
 		String reverse="Amazon";
 		
