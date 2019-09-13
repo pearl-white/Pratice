@@ -17,6 +17,7 @@ public class DuplicateArray {
 //		}
 		
 	// Note is added
+		//Note 4 master 
 		
 		String reverse="Amazon";
 		
