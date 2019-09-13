@@ -17,8 +17,12 @@ public class DuplicateArray {
 //		}
 		
 	// Note is added
+<<<<<<< HEAD
 		//Note 4 master 
 		//jhdsfhghdgfqqqqqqqqqqq
+=======
+		//kdshfkhdsjcdsgfdgfdgfdgfdgfdg
+>>>>>>> branch 'master' of https://github.com/pearl-white/Pratice.git
 		String reverse="Amazon";
 		
 		for (int i = reverse.length()-1; i >=0; i--) {
